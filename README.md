@@ -1,7 +1,16 @@
-Stock Count: Stok sayısını gösterir.
+# stock-count
 
-Who counts the stock: Şafak and Kaan ürünleri sayar Selin kontrol eder.
+The stock count of Selin's warehouse: every product, with its number.
 
-count.txt nasıl okunur: count.txt dosyası ürün adını ve stok miktarını gösterir.
+## The count
 
-cat count.txt terminalde counts.txt dosyasını gösterir.
+- The count lives in `count.txt`.
+- One product per line: a name, one space, a number.
+- New products go at the end of the file.
+
+## How to change it
+
+1. Open an issue.
+2. Make a branch.
+3. Commit, push, and open a pull request.
+4. Somebody else reviews it before it is merged.
